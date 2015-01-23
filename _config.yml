@@ -1,0 +1,19 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            The Barefoot Linguist
+tagline:          
+url:              http://barefootlinguist.com
+paginate:         1
+baseurl:          /
+author:
+  name:           Jenia Gutova
+  url:            http://barefootlinguist.com
+  email:          jeniaa@gmail.com
+
+# Custom vars
+#version:          1.0.0
+#github:
+#  repo:           https://github.com/poole/poole
