@@ -1,0 +1,82 @@
+// Posts and pages
+//
+// Each post is wrapped in `.post` and is used on default and post layouts. Each
+// page is wrapped in `.page` and is only used on the page layout.
+
+// List of posts
+
+/* Posts
+-------------------------------------------------- */
+
+/* List of posts
+------------------------- */
+.posts {
+  margin-bottom: 4rem;
+}
+.posts li a small {
+  font-size: 75%;
+  color: #999;
+}
+.posts li a:hover {
+  color: #000;
+  text-decoration: none;
+}
+.posts li a:hover small {
+  color: #000;
+}
+
+/* Single post
+------------------------- */
+.post {
+  position: relative;
+  margin-bottom: 4rem;
+}
+/*.post:after {
+  display: block;
+  content: "";
+  width: 100px;
+  height: 1px;
+  margin: 4rem auto;
+  background-color: #eee;
+}*/
+.post img,
+.post iframe {
+  max-width: 100%;
+}
+.post iframe {
+  margin-bottom: 1rem;
+}
+.tweet-button {
+  margin: .5rem 0 0;
+}
+.post-date {
+  display: block;
+  margin: -.5rem 0 .5rem;
+  color: #ccc;
+}
+
+.page {
+  padding-bottom: 4rem;
+}
+.page-title {
+  margin-bottom: 2rem;
+}
+.page-body > p:first-child {
+  font-size: 1.25rem;
+}
+
+.talk p {
+  margin-top: 1rem;
+}
+
+/* Links in paragraphs get extra love */
+.archive a,
+.post-body a,
+.page-body a {
+  border-bottom: 1px solid #ddd;
+}
+.archive a:hover,
+.post-body a:hover,
+.page-body a:hover {
+  border-bottom-color: #000;
+}

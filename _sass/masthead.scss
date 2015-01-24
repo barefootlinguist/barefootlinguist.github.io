@@ -1,0 +1,36 @@
+/* Masthead */
+.masthead {
+  margin-bottom: 0;
+  font-size: 1rem;
+  color: #777;
+}
+.masthead:after {
+  display: block;
+  content: "";
+  width: 100px;
+  height: 1px;
+  margin: 3rem auto;
+  background-color: #eee;
+}
+
+.nav {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+.nav li {
+  display: inline-block;
+}
+.nav li + li {
+  margin-left: .5rem;
+}
+
+@media (min-width: 34em) {
+  .masthead {
+    padding-top: 1rem;
+    text-align: right;
+  }
+  .masthead-title {
+    float: left;
+  }
+}

@@ -1,0 +1,100 @@
+p {
+  margin: 0 0 1rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+  margin-bottom: .5rem;
+  font-weight: bold;
+  line-height: 1.1;
+  color: #333;
+  letter-spacing: -.025rem;
+}
+
+h1 {
+  font-size: 2rem;
+}
+h2 {
+  font-size: 1.6rem;
+}
+h3 {
+  font-size: 1.2rem;
+}
+p + h1,
+p + h2,
+p + h3,
+ul + h1,
+ul + h2,
+ul + h3,
+ol + h1,
+ol + h2,
+ol + h3 {
+  margin-top: 1.5rem;
+}
+
+/* Emphasis */
+em,
+strong {
+  padding-left: .1em;
+  padding-right: .1em;
+}
+
+em {
+  color: #666;
+}
+
+strong {
+  font-weight: bold;
+  color: #333;
+}
+
+/* Lists */
+ul,
+ol {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  padding-left: 1.5em;
+}
+.body li {
+  margin-bottom: .25rem;
+}
+ul ul {
+  margin-top: .25rem;
+  margin-bottom: .5rem;
+}
+
+hr {
+  width: 100px;
+  height: 1px;
+  margin: 2rem auto;
+  background-color: #eee;
+  border: 0;
+}
+
+abbr {
+  background-color: #eee;
+  display: inline-block;
+  padding: 3px;
+  font-size: 13px;
+  font-weight: bold;
+  color: #555;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.5);
+  text-transform: uppercase;
+  border-radius: 3px;
+}
+
+blockquote {
+  padding: 0 0 0 1.5rem;
+  margin: 0 2rem 1rem -2rem;
+  color: #999;
+  border-left: .5rem solid #e5e5e5;
+}
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+img {
+  display: block;
+  margin: 0 0 1rem;
+  border-radius: .25rem;
+}
