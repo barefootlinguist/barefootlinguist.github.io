@@ -5,7 +5,7 @@ relative_permalinks: true
 # Setup
 title:            The Barefoot Linguist
 tagline:
-url:              http://127.0.0.1:4000
+url:              http://barefootlinguist.com
 paginate:         30
 baseurl:          /
 author:
@@ -13,7 +13,5 @@ author:
   url:            http://barefootlinguist.com
   email:          jeniaa@gmail.com
 
-# Custom vars
-#version:          1.0.0
-#github:
-#  repo:           https://github.com/poole/poole
+sass:
+  style:          compressed
