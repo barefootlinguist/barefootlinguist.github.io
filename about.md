@@ -57,6 +57,6 @@ Morocco has been my main area of interest and investigation for the past three y
 
 Besides Arabic and Berber, I am also interested in (many) other languages (mainly spoken in Africa and in the Middle East, but sometimes I get distracted by other regions and continents, too). Some of my favourites also include Yiddish.
 Baby talk in the Maghreb and beyond
-I am currently working on baby talk in the Maghreb (and beyond). See <a href="http://babytalk.barefootlinguist.com">http://babytalk.barefootlinguist.com</a> devoted specifically to this question.
+I am currently working on baby talk in the Maghreb (and beyond). See <a href="http://babytalk.barefootlinguist.com" target="_blank">http://babytalk.barefootlinguist.com</a> devoted specifically to this question.
 
 For comments or questions you can contact me via email at jeniaa at gmail dot com.
