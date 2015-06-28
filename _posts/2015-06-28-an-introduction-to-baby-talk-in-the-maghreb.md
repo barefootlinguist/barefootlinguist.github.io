@@ -2,8 +2,9 @@
 layout: post
 title: An introduction to baby talk in the Maghreb
 ---
+<script async class="speakerdeck-embed" data-id="b93e42f46e314bdcb261aa8d73eed027" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-<p><script async class="speakerdeck-embed" data-id="b93e42f46e314bdcb261aa8d73eed027" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script></p>
+<p></p>
 
 This presentation provides an introduction to the BT in the Maghreb and discusses its different features, such as phonetics/phonology, word structure, morphology, syntax, and the origin/etymology of BT terms.
 
