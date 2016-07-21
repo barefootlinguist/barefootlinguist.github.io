@@ -17,3 +17,5 @@ sass:
   style:          compressed
 include:
 - data
+keep_files:
+- data
