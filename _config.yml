@@ -15,3 +15,5 @@ author:
 
 sass:
   style:          compressed
+include:
+- data
